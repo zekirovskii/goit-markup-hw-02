@@ -24,6 +24,9 @@ body {
     align-items: center;
     gap: 0;
     border-bottom: 0;
+    flex-direction: none;
+    order: inherit;
+    flex-grow: none;
 }
 
 .color-logo {
