@@ -24,9 +24,9 @@ body {
     align-items: center;
     gap: 0;
     border-bottom: 0;
-    flex-direction: none;
+    flex-direction: row;
     order: inherit;
-    flex-grow: none;
+    flex-grow: inherit;
 }
 
 .color-logo {
